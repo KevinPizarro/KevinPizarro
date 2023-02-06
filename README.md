@@ -1,4 +1,18 @@
-### Hi there 👋
+## Sobre mi 👨‍🎓
+
+- 👋 Hola! soy @KevinPizarro.
+- 👀 Mis temas de interés son la Microelectrónica, Neurocomputación e Inteligencia Artificial.
+- 🌱 Actualmente estoy en el programa de Magíster en Ciencias de la Ingeniería Electrónica, aréa especialización Computadores,  en la Universidad Técnica Federico Santa María - Chile.
+
+Este respositorio es unicamente para los proyectos académicos durante el transcurso de mis estudios, contempla tareas y proyectos finales de varias asignaturas de la universidad.
+
+## About me 👨‍🎓
+
+- 👋 Hi! I’m @KevinPizarro.
+- 👀 I’m interested in Microelectronics, Neurocomputing and AI.
+- 🌱 I’m currently on the MSc. in Electronic Engineering program in the Universidad Técnica Federico Santa María, Chile.
+
+This repository is for the academics projects like homeworks or final projects of different subjects of the university.
 
 <!--
 **KevinPizarro/KevinPizarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
